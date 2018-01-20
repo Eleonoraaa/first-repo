@@ -1,7 +1,10 @@
 nqkakvo sudutjanie
 za proba
+
 промяна с bash
 i neshto si tam
 
 
+
+промяна с tortoise
 
